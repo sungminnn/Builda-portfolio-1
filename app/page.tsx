@@ -194,13 +194,6 @@ export default function HomePage() {
           <p>공간의 가치를 디자인하는 프리미엄 인테리어 스튜디오</p>
         </div>
         <div className="footerCol">
-          <p className="footerTitle">MENU</p>
-          <p>About</p>
-          <p>Services</p>
-          <p>Projects</p>
-          <p>Contact</p>
-        </div>
-        <div className="footerCol">
           <p className="footerTitle">CONTACT</p>
           <p>hello@lune-studio.com</p>
           <p>+82 2-0000-0000</p>
