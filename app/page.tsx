@@ -189,17 +189,28 @@ export default function HomePage() {
       </section>
 
       <footer className="wrap footer">
-        <div>
+        <div className="footerCol">
           <p className="brand dark">LUNE</p>
-          <p>공간의 가치를 디자인합니다.</p>
+          <p>공간의 가치를 디자인하는 프리미엄 인테리어 스튜디오</p>
         </div>
-        <div>
-          <p>CONTACT</p>
-          <p>hello@lune.co.kr</p>
-          <p>02-1236-5678</p>
+        <div className="footerCol">
+          <p className="footerTitle">MENU</p>
+          <p>About</p>
+          <p>Services</p>
+          <p>Projects</p>
+          <p>Contact</p>
         </div>
-        <div>
-          <p>© 2026 LUNE. ALL RIGHTS RESERVED.</p>
+        <div className="footerCol">
+          <p className="footerTitle">CONTACT</p>
+          <p>hello@lune-studio.com</p>
+          <p>+82 2-0000-0000</p>
+          <p>Kakao Channel: @lune-design</p>
+        </div>
+        <div className="footerCol">
+          <p className="footerTitle">SOCIAL</p>
+          <p>Instagram / @lune.studio</p>
+          <p>Behance / lune-interior</p>
+          <p>Pinterest / lune-moodboard</p>
         </div>
       </footer>
     </main>
