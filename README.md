@@ -38,6 +38,6 @@ npm run dev
 
 Open `http://localhost:3000` in your browser.
 
-## Resume Notes
+## Overview
 
-This project demonstrates frontend execution for a brand-focused landing page: visual hierarchy, responsive composition, animation timing, optimized media handling, and conversion-oriented page structure.
+The project focuses on a brand-driven landing page experience with strong visual hierarchy, responsive composition, animation timing, optimized media handling, and a consultation-oriented page structure.
