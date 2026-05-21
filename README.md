@@ -2,6 +2,10 @@
 
 A premium interior design studio website built with Next.js, React, and TypeScript. The project presents a polished brand experience for a fictional high-end studio, combining full-screen visual storytelling, animated section reveals, responsive layouts, and a consultation-oriented contact flow.
 
+## Overview
+
+The project focuses on a brand-driven landing page experience with strong visual hierarchy, responsive composition, animation timing, optimized media handling, and a consultation-oriented page structure.
+
 ## Highlights
 
 - Built a single-page portfolio experience with Next.js App Router and React 19.
@@ -37,7 +41,3 @@ npm run dev
 ```
 
 Open `http://localhost:3000` in your browser.
-
-## Overview
-
-The project focuses on a brand-driven landing page experience with strong visual hierarchy, responsive composition, animation timing, optimized media handling, and a consultation-oriented page structure.
